@@ -1,0 +1,6 @@
+/Users/pavelkozuhovskij/RiderProjects/skillbox/Skillbox/bin/Debug/Skillbox.exe
+/Users/pavelkozuhovskij/RiderProjects/skillbox/Skillbox/bin/Debug/Skillbox.pdb
+/Users/pavelkozuhovskij/RiderProjects/skillbox/Skillbox/obj/Debug/Skillbox.csproj.AssemblyReference.cache
+/Users/pavelkozuhovskij/RiderProjects/skillbox/Skillbox/obj/Debug/Skillbox.csproj.CoreCompileInputs.cache
+/Users/pavelkozuhovskij/RiderProjects/skillbox/Skillbox/obj/Debug/Skillbox.exe
+/Users/pavelkozuhovskij/RiderProjects/skillbox/Skillbox/obj/Debug/Skillbox.pdb
